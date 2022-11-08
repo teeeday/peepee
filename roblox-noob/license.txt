@@ -1,0 +1,11 @@
+Model Information:
+* title:	Roblox-Noob
+* source:	https://sketchfab.com/3d-models/roblox-noob-d5cd875b17d345b78a34d24296af0ceb
+* author:	Roblox (https://sketchfab.com/Robloxs)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Roblox-Noob" (https://sketchfab.com/3d-models/roblox-noob-d5cd875b17d345b78a34d24296af0ceb) by Roblox (https://sketchfab.com/Robloxs) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
